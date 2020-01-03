@@ -32,7 +32,6 @@ const App = () => {
     )
       .then(response => response.json())
       .then(data => {
-        console.log(data);
         setDaily(data.results);
       });
     fetch(
@@ -79,7 +78,6 @@ const App = () => {
           style={styles.horizontalList}
           keyExtractor={item => item.id.toString()}
           onEndReached={() => {
-            console.log("Reached");
             fetch(
               'https://api.themoviedb.org/3/movie/now_playing?api_key=a907a1c2ad903ae8fd64573003d9ea0b&language=en-US&page=' +
                 dailyCount,
