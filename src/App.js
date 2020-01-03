@@ -70,7 +70,9 @@ const App = () => {
         {openRes && searchRes ? (
           <ItemMainPage item={searchRes} closeFunc={() => setOpenRes(false)} />
         ) : null}
-        <Text style={styles.headings}>{'Trending Daily'}</Text>
+        <Text style={{...styles.headings, fontFamily: 'Pacifico'}}>
+          {'Trending Daily'}
+        </Text>
         <FlatList
           horizontal={true}
           data={daily}
@@ -100,7 +102,9 @@ const App = () => {
             />
           )}
         />
-        <Text style={styles.headings}>{'Trending Weekly'}</Text>
+        <Text style={{...styles.headings, fontFamily: 'Pacifico'}}>
+          {'Trending Weekly'}
+        </Text>
         <FlatList
           horizontal={true}
           data={weekly}
@@ -129,7 +133,9 @@ const App = () => {
             />
           )}
         />
-        <Text style={styles.headings}>{'Popular'}</Text>
+        <Text style={{...styles.headings, fontFamily: 'Pacifico'}}>
+          {'Popular'}
+        </Text>
         <FlatList
           horizontal={true}
           data={popular}

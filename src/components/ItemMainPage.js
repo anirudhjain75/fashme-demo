@@ -51,6 +51,7 @@ const styles = {
   TextBodyStyle: {
     color: 'white',
     fontSize: 15,
+    fontFamily: 'GreatVibes-Regular',
     paddingLeft: 10,
     paddingRight: 10,
   },

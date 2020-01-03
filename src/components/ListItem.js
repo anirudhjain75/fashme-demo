@@ -25,7 +25,14 @@ const ListItem = ({item, index, setOpenRes, setSearchRes}) => {
           marginBottom: 5,
         }}
       />
-      <Text style={{paddingLeft: 10, color: 'white'}}>{item.title}</Text>
+      <Text
+        style={{
+          paddingLeft: 10,
+          color: 'white',
+          fontFamily: 'JosefinSans-Bold',
+        }}>
+        {item.title}
+      </Text>
     </TouchableOpacity>
   );
 };
