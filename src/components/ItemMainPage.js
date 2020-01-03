@@ -1,5 +1,5 @@
 import React from 'react';
-import {SafeAreaView, Image, Text, Button, View} from 'react-native';
+import {SafeAreaView, Image, Text, TouchableOpacity, View} from 'react-native';
 
 const ItemMainPage = ({item, closeFunc}) => {
   return (
@@ -15,7 +15,20 @@ const ItemMainPage = ({item, closeFunc}) => {
           <Text style={styles.TextBodyStyle}>{item.overview}</Text>
         </View>
       </View>
-      <Button onPress={closeFunc} title={'Close'} />
+      <TouchableOpacity
+        style={{
+          alignSelf: 'center',
+          marginTop: 10,
+          paddingTop: 10,
+          marginBottom: 10,
+          paddingRight: 20,
+          paddingLeft: 20,
+          borderWidth: 1,
+          borderColor: 'grey',
+          borderRadius: 10,
+        }}>
+        <Text style={{...styles.TextHeaderStyle, fontSize: 20}}>{'Close'}</Text>
+      </TouchableOpacity>
     </SafeAreaView>
   );
 };
@@ -46,14 +59,14 @@ const styles = {
     marginLeft: 10,
     marginRight: 10,
     marginBottom: 10,
-    fontWeight: 'bold',
+    fontFamily: 'Pacifico',
   },
   TextBodyStyle: {
     color: 'white',
     fontSize: 15,
-    fontFamily: 'Pacifico',
     paddingLeft: 10,
     paddingRight: 10,
+    fontFamily: 'JosefinSans-Regular',
   },
   TextContainer: {
     width: 190,

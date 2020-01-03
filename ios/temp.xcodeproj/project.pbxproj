@@ -31,6 +31,7 @@
 		BA6C15771EC558821B7D9B44 /* libPods-temp-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1529F15FBA33B2FA7C82BF82 /* libPods-temp-tvOS.a */; };
 		C2332672DB58439992425512 /* JosefinSans-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BD83A7FB6A1A4809A0E7778A /* JosefinSans-Italic.ttf */; };
 		ED6C6299F6F3422E98E7F9A7 /* JosefinSans-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 98BD469C06F4431BB7A0CDFF /* JosefinSans-LightItalic.ttf */; };
+		C269CEE36FE9415396136004 /* pacifico.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 608553BF71E8469FA2BC12FA /* pacifico.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -90,6 +91,7 @@
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
 		EF01EB1C47964E15A20B51F6 /* JosefinSans-Thin.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "JosefinSans-Thin.ttf"; path = "../assets/fonts/josefin-sans/JosefinSans-Thin.ttf"; sourceTree = "<group>"; };
+		608553BF71E8469FA2BC12FA /* pacifico.ttf */ = {isa = PBXFileReference; name = "pacifico.ttf"; path = "../assets/fonts/pacifico/pacifico.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -187,6 +189,7 @@
 				35F9A020CB5A459C87365F30 /* JosefinSans-SemiBoldItalic.ttf */,
 				EF01EB1C47964E15A20B51F6 /* JosefinSans-Thin.ttf */,
 				89D8183344544ECFA688D1F3 /* JosefinSans-ThinItalic.ttf */,
+				608553BF71E8469FA2BC12FA /* pacifico.ttf */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -392,6 +395,7 @@
 				36970FC6CBC842D8AF69E41C /* JosefinSans-SemiBoldItalic.ttf in Resources */,
 				79EA56821EE8415AADCDE127 /* JosefinSans-Thin.ttf in Resources */,
 				7F7CA0905C37416B88C193BB /* JosefinSans-ThinItalic.ttf in Resources */,
+				C269CEE36FE9415396136004 /* pacifico.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -38,7 +38,7 @@
 		</dict>
 	</dict>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string></string>
+	<string/>
 	<key>UIAppFonts</key>
 	<array>
 		<string>Pacifico.ttf</string>
@@ -52,6 +52,7 @@
 		<string>JosefinSans-SemiBoldItalic.ttf</string>
 		<string>JosefinSans-Thin.ttf</string>
 		<string>JosefinSans-ThinItalic.ttf</string>
+		<string>pacifico.ttf</string>
 	</array>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
