@@ -16,6 +16,7 @@ const ItemMainPage = ({item, closeFunc}) => {
         </View>
       </View>
       <TouchableOpacity
+        onPress={closeFunc}
         style={{
           alignSelf: 'center',
           marginTop: 10,
