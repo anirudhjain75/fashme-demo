@@ -31,7 +31,6 @@
 		BA6C15771EC558821B7D9B44 /* libPods-MovieMeta-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1529F15FBA33B2FA7C82BF82 /* libPods-MovieMeta-tvOS.a */; };
 		C2332672DB58439992425512 /* JosefinSans-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BD83A7FB6A1A4809A0E7778A /* JosefinSans-Italic.ttf */; };
 		ED6C6299F6F3422E98E7F9A7 /* JosefinSans-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 98BD469C06F4431BB7A0CDFF /* JosefinSans-LightItalic.ttf */; };
-		C269CEE36FE9415396136004 /* pacifico.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 608553BF71E8469FA2BC12FA /* pacifico.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -78,6 +77,7 @@
 		459987314A1A94C1494DA1A5 /* Pods-MovieMeta.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MovieMeta.release.xcconfig"; path = "Target Support Files/Pods-MovieMeta/Pods-MovieMeta.release.xcconfig"; sourceTree = "<group>"; };
 		578CE87D01C743AE8A43752C /* JosefinSans-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "JosefinSans-SemiBold.ttf"; path = "../assets/fonts/josefin-sans/JosefinSans-SemiBold.ttf"; sourceTree = "<group>"; };
 		5B0D3A736B669CDE109EABBE /* Pods-MovieMetaTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MovieMetaTests.debug.xcconfig"; path = "Target Support Files/Pods-MovieMetaTests/Pods-MovieMetaTests.debug.xcconfig"; sourceTree = "<group>"; };
+		608553BF71E8469FA2BC12FA /* pacifico.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = pacifico.ttf; path = ../assets/fonts/pacifico/pacifico.ttf; sourceTree = "<group>"; };
 		609DC3C6A8824BB6BCB74E0C /* JosefinSans-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "JosefinSans-Light.ttf"; path = "../assets/fonts/josefin-sans/JosefinSans-Light.ttf"; sourceTree = "<group>"; };
 		7523D94963A44E1DB47179FC /* GreatVibes-Regular.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "GreatVibes-Regular.otf"; path = "../assets/fonts/great-vibes/GreatVibes-Regular.otf"; sourceTree = "<group>"; };
 		77C514B826B5808E85C0AD57 /* Pods-MovieMeta-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MovieMeta-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-MovieMeta-tvOSTests/Pods-MovieMeta-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -91,7 +91,6 @@
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
 		EF01EB1C47964E15A20B51F6 /* JosefinSans-Thin.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "JosefinSans-Thin.ttf"; path = "../assets/fonts/josefin-sans/JosefinSans-Thin.ttf"; sourceTree = "<group>"; };
-		608553BF71E8469FA2BC12FA /* pacifico.ttf */ = {isa = PBXFileReference; name = "pacifico.ttf"; path = "../assets/fonts/pacifico/pacifico.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -337,6 +336,9 @@
 						CreatedOnToolsVersion = 6.2;
 						TestTargetID = 13B07F861A680F5B00A75B9A;
 					};
+					13B07F861A680F5B00A75B9A = {
+						ProvisioningStyle = Manual;
+					};
 					2D02E47A1E0B4A5D006451C7 = {
 						CreatedOnToolsVersion = 8.2.1;
 						ProvisioningStyle = Automatic;
@@ -395,7 +397,6 @@
 				36970FC6CBC842D8AF69E41C /* JosefinSans-SemiBoldItalic.ttf in Resources */,
 				79EA56821EE8415AADCDE127 /* JosefinSans-Thin.ttf in Resources */,
 				7F7CA0905C37416B88C193BB /* JosefinSans-ThinItalic.ttf in Resources */,
-				C269CEE36FE9415396136004 /* pacifico.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -684,8 +685,10 @@
 			baseConfigurationReference = 22C15053D3917E84CC90F2EC /* Pods-MovieMeta.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = MovieMeta/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -695,6 +698,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = MovieMeta;
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
@@ -704,7 +708,9 @@
 			baseConfigurationReference = 459987314A1A94C1494DA1A5 /* Pods-MovieMeta.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = MovieMeta/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -714,6 +720,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = MovieMeta;
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
