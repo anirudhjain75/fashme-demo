@@ -128,7 +128,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.temp"
+        applicationId "com.moviemeta"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

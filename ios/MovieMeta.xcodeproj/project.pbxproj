@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00E356F31AD99517003FC87E /* tempTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* tempTests.m */; };
-		0D217E8A02981CD7C64936CF /* libPods-tempTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 238C3D3DF1AAC09C7411470B /* libPods-tempTests.a */; };
+		00E356F31AD99517003FC87E /* MovieMetaTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* MovieMetaTests.m */; };
+		0D217E8A02981CD7C64936CF /* libPods-MovieMetaTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 238C3D3DF1AAC09C7411470B /* libPods-MovieMetaTests.a */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB11A68108700A75B9A /* LaunchScreen.xib */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
@@ -17,18 +17,18 @@
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		2DCD954D1E0B4F2C00145EB5 /* tempTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* tempTests.m */; };
+		2DCD954D1E0B4F2C00145EB5 /* MovieMetaTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* MovieMetaTests.m */; };
 		36970FC6CBC842D8AF69E41C /* JosefinSans-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 35F9A020CB5A459C87365F30 /* JosefinSans-SemiBoldItalic.ttf */; };
 		399D954F8A674F3C8755852D /* JosefinSans-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 609DC3C6A8824BB6BCB74E0C /* JosefinSans-Light.ttf */; };
-		4E613D96B3404C75AEE85B5B /* libPods-temp-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E908429BCF1700E6EFA509E0 /* libPods-temp-tvOSTests.a */; };
-		4E77908482ADABDAB08D5E76 /* libPods-temp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7E04D50BC068C43E3400D3AF /* libPods-temp.a */; };
+		4E613D96B3404C75AEE85B5B /* libPods-MovieMeta-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E908429BCF1700E6EFA509E0 /* libPods-MovieMeta-tvOSTests.a */; };
+		4E77908482ADABDAB08D5E76 /* libPods-MovieMeta.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7E04D50BC068C43E3400D3AF /* libPods-MovieMeta.a */; };
 		71D22BC323B44196AA8F5D76 /* JosefinSans-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 578CE87D01C743AE8A43752C /* JosefinSans-SemiBold.ttf */; };
 		73FAAA2D734D442F9DE6FA74 /* JosefinSans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A0F629AE1CC74C98B0845844 /* JosefinSans-Bold.ttf */; };
 		79EA56821EE8415AADCDE127 /* JosefinSans-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EF01EB1C47964E15A20B51F6 /* JosefinSans-Thin.ttf */; };
 		7F7CA0905C37416B88C193BB /* JosefinSans-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 89D8183344544ECFA688D1F3 /* JosefinSans-ThinItalic.ttf */; };
 		A327717AD4AC452C882D3F7B /* Pacifico.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2EA24A28F6E14D398F355FF1 /* Pacifico.ttf */; };
 		B9E857E290C84AAAB99B88DE /* JosefinSans-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2CF67F4329F64D59BE69337E /* JosefinSans-BoldItalic.ttf */; };
-		BA6C15771EC558821B7D9B44 /* libPods-temp-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1529F15FBA33B2FA7C82BF82 /* libPods-temp-tvOS.a */; };
+		BA6C15771EC558821B7D9B44 /* libPods-MovieMeta-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1529F15FBA33B2FA7C82BF82 /* libPods-MovieMeta-tvOS.a */; };
 		C2332672DB58439992425512 /* JosefinSans-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BD83A7FB6A1A4809A0E7778A /* JosefinSans-Italic.ttf */; };
 		ED6C6299F6F3422E98E7F9A7 /* JosefinSans-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 98BD469C06F4431BB7A0CDFF /* JosefinSans-LightItalic.ttf */; };
 		C269CEE36FE9415396136004 /* pacifico.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 608553BF71E8469FA2BC12FA /* pacifico.ttf */; };
@@ -40,54 +40,54 @@
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = temp;
+			remoteInfo = MovieMeta;
 		};
 		2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 2D02E47A1E0B4A5D006451C7;
-			remoteInfo = "temp-tvOS";
+			remoteInfo = "MovieMeta-tvOS";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		008F07F21AC5B25A0029DE68 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
-		00E356EE1AD99517003FC87E /* tempTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tempTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356EE1AD99517003FC87E /* MovieMetaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MovieMetaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00E356F21AD99517003FC87E /* tempTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = tempTests.m; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* MovieMetaTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MovieMetaTests.m; sourceTree = "<group>"; };
 		09106E2DE35248BE842F3EB4 /* JosefinSans-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "JosefinSans-Regular.ttf"; path = "../assets/fonts/josefin-sans/JosefinSans-Regular.ttf"; sourceTree = "<group>"; };
-		09295ACE9515891E02B1C2CA /* Pods-temp-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-temp-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-temp-tvOS/Pods-temp-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
-		13B07F961A680F5B00A75B9A /* temp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = temp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = temp/AppDelegate.h; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = temp/AppDelegate.m; sourceTree = "<group>"; };
+		09295ACE9515891E02B1C2CA /* Pods-MovieMeta-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MovieMeta-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-MovieMeta-tvOS/Pods-MovieMeta-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* MovieMeta.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MovieMeta.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = MovieMeta/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = MovieMeta/AppDelegate.m; sourceTree = "<group>"; };
 		13B07FB21A68108700A75B9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = temp/Images.xcassets; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = temp/Info.plist; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = temp/main.m; sourceTree = "<group>"; };
-		1529F15FBA33B2FA7C82BF82 /* libPods-temp-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-temp-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		22C15053D3917E84CC90F2EC /* Pods-temp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-temp.debug.xcconfig"; path = "Target Support Files/Pods-temp/Pods-temp.debug.xcconfig"; sourceTree = "<group>"; };
-		238C3D3DF1AAC09C7411470B /* libPods-tempTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-tempTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = MovieMeta/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = MovieMeta/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = MovieMeta/main.m; sourceTree = "<group>"; };
+		1529F15FBA33B2FA7C82BF82 /* libPods-MovieMeta-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MovieMeta-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		22C15053D3917E84CC90F2EC /* Pods-MovieMeta.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MovieMeta.debug.xcconfig"; path = "Target Support Files/Pods-MovieMeta/Pods-MovieMeta.debug.xcconfig"; sourceTree = "<group>"; };
+		238C3D3DF1AAC09C7411470B /* libPods-MovieMetaTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MovieMetaTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2CF67F4329F64D59BE69337E /* JosefinSans-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "JosefinSans-BoldItalic.ttf"; path = "../assets/fonts/josefin-sans/JosefinSans-BoldItalic.ttf"; sourceTree = "<group>"; };
-		2D02E47B1E0B4A5D006451C7 /* temp-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "temp-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2D02E4901E0B4A5D006451C7 /* temp-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "temp-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D02E47B1E0B4A5D006451C7 /* MovieMeta-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "MovieMeta-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D02E4901E0B4A5D006451C7 /* MovieMeta-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "MovieMeta-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2EA24A28F6E14D398F355FF1 /* Pacifico.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Pacifico.ttf; path = ../assets/fonts/pacifico/Pacifico.ttf; sourceTree = "<group>"; };
 		35F9A020CB5A459C87365F30 /* JosefinSans-SemiBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "JosefinSans-SemiBoldItalic.ttf"; path = "../assets/fonts/josefin-sans/JosefinSans-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
-		385DAF2BC14EBA4ACDC56818 /* Pods-temp-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-temp-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-temp-tvOSTests/Pods-temp-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
-		3BB4F5CDA80B9D04CB77803A /* Pods-temp-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-temp-tvOS.release.xcconfig"; path = "Target Support Files/Pods-temp-tvOS/Pods-temp-tvOS.release.xcconfig"; sourceTree = "<group>"; };
-		459987314A1A94C1494DA1A5 /* Pods-temp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-temp.release.xcconfig"; path = "Target Support Files/Pods-temp/Pods-temp.release.xcconfig"; sourceTree = "<group>"; };
+		385DAF2BC14EBA4ACDC56818 /* Pods-MovieMeta-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MovieMeta-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-MovieMeta-tvOSTests/Pods-MovieMeta-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		3BB4F5CDA80B9D04CB77803A /* Pods-MovieMeta-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MovieMeta-tvOS.release.xcconfig"; path = "Target Support Files/Pods-MovieMeta-tvOS/Pods-MovieMeta-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		459987314A1A94C1494DA1A5 /* Pods-MovieMeta.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MovieMeta.release.xcconfig"; path = "Target Support Files/Pods-MovieMeta/Pods-MovieMeta.release.xcconfig"; sourceTree = "<group>"; };
 		578CE87D01C743AE8A43752C /* JosefinSans-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "JosefinSans-SemiBold.ttf"; path = "../assets/fonts/josefin-sans/JosefinSans-SemiBold.ttf"; sourceTree = "<group>"; };
-		5B0D3A736B669CDE109EABBE /* Pods-tempTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-tempTests.debug.xcconfig"; path = "Target Support Files/Pods-tempTests/Pods-tempTests.debug.xcconfig"; sourceTree = "<group>"; };
+		5B0D3A736B669CDE109EABBE /* Pods-MovieMetaTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MovieMetaTests.debug.xcconfig"; path = "Target Support Files/Pods-MovieMetaTests/Pods-MovieMetaTests.debug.xcconfig"; sourceTree = "<group>"; };
 		609DC3C6A8824BB6BCB74E0C /* JosefinSans-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "JosefinSans-Light.ttf"; path = "../assets/fonts/josefin-sans/JosefinSans-Light.ttf"; sourceTree = "<group>"; };
 		7523D94963A44E1DB47179FC /* GreatVibes-Regular.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "GreatVibes-Regular.otf"; path = "../assets/fonts/great-vibes/GreatVibes-Regular.otf"; sourceTree = "<group>"; };
-		77C514B826B5808E85C0AD57 /* Pods-temp-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-temp-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-temp-tvOSTests/Pods-temp-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
-		7E04D50BC068C43E3400D3AF /* libPods-temp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-temp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		77C514B826B5808E85C0AD57 /* Pods-MovieMeta-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MovieMeta-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-MovieMeta-tvOSTests/Pods-MovieMeta-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		7E04D50BC068C43E3400D3AF /* libPods-MovieMeta.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MovieMeta.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		89D8183344544ECFA688D1F3 /* JosefinSans-ThinItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "JosefinSans-ThinItalic.ttf"; path = "../assets/fonts/josefin-sans/JosefinSans-ThinItalic.ttf"; sourceTree = "<group>"; };
 		98BD469C06F4431BB7A0CDFF /* JosefinSans-LightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "JosefinSans-LightItalic.ttf"; path = "../assets/fonts/josefin-sans/JosefinSans-LightItalic.ttf"; sourceTree = "<group>"; };
 		A0F629AE1CC74C98B0845844 /* JosefinSans-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "JosefinSans-Bold.ttf"; path = "../assets/fonts/josefin-sans/JosefinSans-Bold.ttf"; sourceTree = "<group>"; };
-		BAA2D60FE3E20007E62CCBB8 /* Pods-tempTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-tempTests.release.xcconfig"; path = "Target Support Files/Pods-tempTests/Pods-tempTests.release.xcconfig"; sourceTree = "<group>"; };
+		BAA2D60FE3E20007E62CCBB8 /* Pods-MovieMetaTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MovieMetaTests.release.xcconfig"; path = "Target Support Files/Pods-MovieMetaTests/Pods-MovieMetaTests.release.xcconfig"; sourceTree = "<group>"; };
 		BD83A7FB6A1A4809A0E7778A /* JosefinSans-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "JosefinSans-Italic.ttf"; path = "../assets/fonts/josefin-sans/JosefinSans-Italic.ttf"; sourceTree = "<group>"; };
-		E908429BCF1700E6EFA509E0 /* libPods-temp-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-temp-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E908429BCF1700E6EFA509E0 /* libPods-MovieMeta-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MovieMeta-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
 		EF01EB1C47964E15A20B51F6 /* JosefinSans-Thin.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "JosefinSans-Thin.ttf"; path = "../assets/fonts/josefin-sans/JosefinSans-Thin.ttf"; sourceTree = "<group>"; };
@@ -99,7 +99,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0D217E8A02981CD7C64936CF /* libPods-tempTests.a in Frameworks */,
+				0D217E8A02981CD7C64936CF /* libPods-MovieMetaTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -107,7 +107,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4E77908482ADABDAB08D5E76 /* libPods-temp.a in Frameworks */,
+				4E77908482ADABDAB08D5E76 /* libPods-MovieMeta.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -115,7 +115,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BA6C15771EC558821B7D9B44 /* libPods-temp-tvOS.a in Frameworks */,
+				BA6C15771EC558821B7D9B44 /* libPods-MovieMeta-tvOS.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -123,20 +123,20 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4E613D96B3404C75AEE85B5B /* libPods-temp-tvOSTests.a in Frameworks */,
+				4E613D96B3404C75AEE85B5B /* libPods-MovieMeta-tvOSTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356EF1AD99517003FC87E /* tempTests */ = {
+		00E356EF1AD99517003FC87E /* MovieMetaTests */ = {
 			isa = PBXGroup;
 			children = (
-				00E356F21AD99517003FC87E /* tempTests.m */,
+				00E356F21AD99517003FC87E /* MovieMetaTests.m */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
 			);
-			path = tempTests;
+			path = MovieMetaTests;
 			sourceTree = "<group>";
 		};
 		00E356F01AD99517003FC87E /* Supporting Files */ = {
@@ -147,7 +147,7 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		13B07FAE1A68108700A75B9A /* temp */ = {
+		13B07FAE1A68108700A75B9A /* MovieMeta */ = {
 			isa = PBXGroup;
 			children = (
 				008F07F21AC5B25A0029DE68 /* main.jsbundle */,
@@ -158,7 +158,7 @@
 				13B07FB11A68108700A75B9A /* LaunchScreen.xib */,
 				13B07FB71A68108700A75B9A /* main.m */,
 			);
-			name = temp;
+			name = MovieMeta;
 			sourceTree = "<group>";
 		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
@@ -166,10 +166,10 @@
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
 				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
-				7E04D50BC068C43E3400D3AF /* libPods-temp.a */,
-				1529F15FBA33B2FA7C82BF82 /* libPods-temp-tvOS.a */,
-				E908429BCF1700E6EFA509E0 /* libPods-temp-tvOSTests.a */,
-				238C3D3DF1AAC09C7411470B /* libPods-tempTests.a */,
+				7E04D50BC068C43E3400D3AF /* libPods-MovieMeta.a */,
+				1529F15FBA33B2FA7C82BF82 /* libPods-MovieMeta-tvOS.a */,
+				E908429BCF1700E6EFA509E0 /* libPods-MovieMeta-tvOSTests.a */,
+				238C3D3DF1AAC09C7411470B /* libPods-MovieMetaTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -204,9 +204,9 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				13B07FAE1A68108700A75B9A /* temp */,
+				13B07FAE1A68108700A75B9A /* MovieMeta */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* tempTests */,
+				00E356EF1AD99517003FC87E /* MovieMetaTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				FF261DC3C1D5CF8CF838C170 /* Pods */,
@@ -220,10 +220,10 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* temp.app */,
-				00E356EE1AD99517003FC87E /* tempTests.xctest */,
-				2D02E47B1E0B4A5D006451C7 /* temp-tvOS.app */,
-				2D02E4901E0B4A5D006451C7 /* temp-tvOSTests.xctest */,
+				13B07F961A680F5B00A75B9A /* MovieMeta.app */,
+				00E356EE1AD99517003FC87E /* MovieMetaTests.xctest */,
+				2D02E47B1E0B4A5D006451C7 /* MovieMeta-tvOS.app */,
+				2D02E4901E0B4A5D006451C7 /* MovieMeta-tvOSTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -231,14 +231,14 @@
 		FF261DC3C1D5CF8CF838C170 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				22C15053D3917E84CC90F2EC /* Pods-temp.debug.xcconfig */,
-				459987314A1A94C1494DA1A5 /* Pods-temp.release.xcconfig */,
-				09295ACE9515891E02B1C2CA /* Pods-temp-tvOS.debug.xcconfig */,
-				3BB4F5CDA80B9D04CB77803A /* Pods-temp-tvOS.release.xcconfig */,
-				77C514B826B5808E85C0AD57 /* Pods-temp-tvOSTests.debug.xcconfig */,
-				385DAF2BC14EBA4ACDC56818 /* Pods-temp-tvOSTests.release.xcconfig */,
-				5B0D3A736B669CDE109EABBE /* Pods-tempTests.debug.xcconfig */,
-				BAA2D60FE3E20007E62CCBB8 /* Pods-tempTests.release.xcconfig */,
+				22C15053D3917E84CC90F2EC /* Pods-MovieMeta.debug.xcconfig */,
+				459987314A1A94C1494DA1A5 /* Pods-MovieMeta.release.xcconfig */,
+				09295ACE9515891E02B1C2CA /* Pods-MovieMeta-tvOS.debug.xcconfig */,
+				3BB4F5CDA80B9D04CB77803A /* Pods-MovieMeta-tvOS.release.xcconfig */,
+				77C514B826B5808E85C0AD57 /* Pods-MovieMeta-tvOSTests.debug.xcconfig */,
+				385DAF2BC14EBA4ACDC56818 /* Pods-MovieMeta-tvOSTests.release.xcconfig */,
+				5B0D3A736B669CDE109EABBE /* Pods-MovieMetaTests.debug.xcconfig */,
+				BAA2D60FE3E20007E62CCBB8 /* Pods-MovieMetaTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -246,9 +246,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00E356ED1AD99517003FC87E /* tempTests */ = {
+		00E356ED1AD99517003FC87E /* MovieMetaTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "tempTests" */;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "MovieMetaTests" */;
 			buildPhases = (
 				4084C9E80E6D0FEF4EF46EA7 /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
@@ -260,14 +260,14 @@
 			dependencies = (
 				00E356F51AD99517003FC87E /* PBXTargetDependency */,
 			);
-			name = tempTests;
-			productName = tempTests;
-			productReference = 00E356EE1AD99517003FC87E /* tempTests.xctest */;
+			name = MovieMetaTests;
+			productName = MovieMetaTests;
+			productReference = 00E356EE1AD99517003FC87E /* MovieMetaTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		13B07F861A680F5B00A75B9A /* temp */ = {
+		13B07F861A680F5B00A75B9A /* MovieMeta */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "temp" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "MovieMeta" */;
 			buildPhases = (
 				E3C72239D510AA8FB95ED5F0 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
@@ -280,14 +280,14 @@
 			);
 			dependencies = (
 			);
-			name = temp;
-			productName = temp;
-			productReference = 13B07F961A680F5B00A75B9A /* temp.app */;
+			name = MovieMeta;
+			productName = MovieMeta;
+			productReference = 13B07F961A680F5B00A75B9A /* MovieMeta.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E47A1E0B4A5D006451C7 /* temp-tvOS */ = {
+		2D02E47A1E0B4A5D006451C7 /* MovieMeta-tvOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "temp-tvOS" */;
+			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "MovieMeta-tvOS" */;
 			buildPhases = (
 				FF45E11B5C9466859D3F447D /* [CP] Check Pods Manifest.lock */,
 				FD10A7F122414F3F0027D42C /* Start Packager */,
@@ -300,14 +300,14 @@
 			);
 			dependencies = (
 			);
-			name = "temp-tvOS";
-			productName = "temp-tvOS";
-			productReference = 2D02E47B1E0B4A5D006451C7 /* temp-tvOS.app */;
+			name = "MovieMeta-tvOS";
+			productName = "MovieMeta-tvOS";
+			productReference = 2D02E47B1E0B4A5D006451C7 /* MovieMeta-tvOS.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E48F1E0B4A5D006451C7 /* temp-tvOSTests */ = {
+		2D02E48F1E0B4A5D006451C7 /* MovieMeta-tvOSTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "temp-tvOSTests" */;
+			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "MovieMeta-tvOSTests" */;
 			buildPhases = (
 				4E9CA5E2DBD991DD425F7FA4 /* [CP] Check Pods Manifest.lock */,
 				2D02E48C1E0B4A5D006451C7 /* Sources */,
@@ -319,9 +319,9 @@
 			dependencies = (
 				2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */,
 			);
-			name = "temp-tvOSTests";
-			productName = "temp-tvOSTests";
-			productReference = 2D02E4901E0B4A5D006451C7 /* temp-tvOSTests.xctest */;
+			name = "MovieMeta-tvOSTests";
+			productName = "MovieMeta-tvOSTests";
+			productReference = 2D02E4901E0B4A5D006451C7 /* MovieMeta-tvOSTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -348,7 +348,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "temp" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "MovieMeta" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -362,10 +362,10 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* temp */,
-				00E356ED1AD99517003FC87E /* tempTests */,
-				2D02E47A1E0B4A5D006451C7 /* temp-tvOS */,
-				2D02E48F1E0B4A5D006451C7 /* temp-tvOSTests */,
+				13B07F861A680F5B00A75B9A /* MovieMeta */,
+				00E356ED1AD99517003FC87E /* MovieMetaTests */,
+				2D02E47A1E0B4A5D006451C7 /* MovieMeta-tvOS */,
+				2D02E48F1E0B4A5D006451C7 /* MovieMeta-tvOSTests */,
 			);
 		};
 /* End PBXProject section */
@@ -460,7 +460,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-tempTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-MovieMetaTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -482,7 +482,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-temp-tvOSTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-MovieMeta-tvOSTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -504,7 +504,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-temp-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-MovieMeta-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -564,7 +564,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-temp-tvOS-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-MovieMeta-tvOS-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -578,7 +578,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00E356F31AD99517003FC87E /* tempTests.m in Sources */,
+				00E356F31AD99517003FC87E /* MovieMetaTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -604,7 +604,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2DCD954D1E0B4F2C00145EB5 /* tempTests.m in Sources */,
+				2DCD954D1E0B4F2C00145EB5 /* MovieMetaTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -613,12 +613,12 @@
 /* Begin PBXTargetDependency section */
 		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 13B07F861A680F5B00A75B9A /* temp */;
+			target = 13B07F861A680F5B00A75B9A /* MovieMeta */;
 			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
 		};
 		2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2D02E47A1E0B4A5D006451C7 /* temp-tvOS */;
+			target = 2D02E47A1E0B4A5D006451C7 /* MovieMeta-tvOS */;
 			targetProxy = 2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -630,7 +630,7 @@
 				13B07FB21A68108700A75B9A /* Base */,
 			);
 			name = LaunchScreen.xib;
-			path = temp;
+			path = MovieMeta;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -638,14 +638,14 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5B0D3A736B669CDE109EABBE /* Pods-tempTests.debug.xcconfig */;
+			baseConfigurationReference = 5B0D3A736B669CDE109EABBE /* Pods-MovieMetaTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = tempTests/Info.plist;
+				INFOPLIST_FILE = MovieMetaTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -655,17 +655,17 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/temp.app/temp";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MovieMeta.app/MovieMeta";
 			};
 			name = Debug;
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = BAA2D60FE3E20007E62CCBB8 /* Pods-tempTests.release.xcconfig */;
+			baseConfigurationReference = BAA2D60FE3E20007E62CCBB8 /* Pods-MovieMetaTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
-				INFOPLIST_FILE = tempTests/Info.plist;
+				INFOPLIST_FILE = MovieMetaTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -675,18 +675,18 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/temp.app/temp";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MovieMeta.app/MovieMeta";
 			};
 			name = Release;
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 22C15053D3917E84CC90F2EC /* Pods-temp.debug.xcconfig */;
+			baseConfigurationReference = 22C15053D3917E84CC90F2EC /* Pods-MovieMeta.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
-				INFOPLIST_FILE = temp/Info.plist;
+				INFOPLIST_FILE = MovieMeta/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -694,18 +694,18 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = temp;
+				PRODUCT_NAME = MovieMeta;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 459987314A1A94C1494DA1A5 /* Pods-temp.release.xcconfig */;
+			baseConfigurationReference = 459987314A1A94C1494DA1A5 /* Pods-MovieMeta.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
-				INFOPLIST_FILE = temp/Info.plist;
+				INFOPLIST_FILE = MovieMeta/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -713,14 +713,14 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = temp;
+				PRODUCT_NAME = MovieMeta;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
 		};
 		2D02E4971E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 09295ACE9515891E02B1C2CA /* Pods-temp-tvOS.debug.xcconfig */;
+			baseConfigurationReference = 09295ACE9515891E02B1C2CA /* Pods-MovieMeta-tvOS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -731,14 +731,14 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "temp-tvOS/Info.plist";
+				INFOPLIST_FILE = "MovieMeta-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.temp-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.MovieMeta-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -748,7 +748,7 @@
 		};
 		2D02E4981E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3BB4F5CDA80B9D04CB77803A /* Pods-temp-tvOS.release.xcconfig */;
+			baseConfigurationReference = 3BB4F5CDA80B9D04CB77803A /* Pods-MovieMeta-tvOS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -759,14 +759,14 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "temp-tvOS/Info.plist";
+				INFOPLIST_FILE = "MovieMeta-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.temp-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.MovieMeta-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -776,7 +776,7 @@
 		};
 		2D02E4991E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 77C514B826B5808E85C0AD57 /* Pods-temp-tvOSTests.debug.xcconfig */;
+			baseConfigurationReference = 77C514B826B5808E85C0AD57 /* Pods-MovieMeta-tvOSTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -786,24 +786,24 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "temp-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "MovieMeta-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.temp-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.MovieMeta-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/temp-tvOS.app/temp-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MovieMeta-tvOS.app/MovieMeta-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Debug;
 		};
 		2D02E49A1E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 385DAF2BC14EBA4ACDC56818 /* Pods-temp-tvOSTests.release.xcconfig */;
+			baseConfigurationReference = 385DAF2BC14EBA4ACDC56818 /* Pods-MovieMeta-tvOSTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -813,17 +813,17 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "temp-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "MovieMeta-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.temp-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.MovieMeta-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/temp-tvOS.app/temp-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MovieMeta-tvOS.app/MovieMeta-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Release;
@@ -930,7 +930,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "tempTests" */ = {
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "MovieMetaTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00E356F61AD99517003FC87E /* Debug */,
@@ -939,7 +939,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "temp" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "MovieMeta" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -948,7 +948,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "temp-tvOS" */ = {
+		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "MovieMeta-tvOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4971E0B4A5E006451C7 /* Debug */,
@@ -957,7 +957,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "temp-tvOSTests" */ = {
+		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "MovieMeta-tvOSTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4991E0B4A5E006451C7 /* Debug */,
@@ -966,7 +966,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "temp" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "MovieMeta" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,

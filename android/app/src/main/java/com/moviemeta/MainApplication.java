@@ -1,4 +1,4 @@
-package com.temp;
+package com.moviemeta;
 
 import android.app.Application;
 import android.content.Context;
